@@ -5,7 +5,7 @@ Official Website: https://nexomia.win
 
 **Credit: @usslmuk, @mxsquarade, @vuxqzo, @sentric, @exchrony, @loadlibrary0 from Discord.**
 
-## 1. Site Can't Be Reached
+## 1. Site Can't Be Reached, Network Mismatch
 ```TXT
 This site can’t be reached
 nexomia.win’s DNS address could not be found. Diagnosing the problem.
