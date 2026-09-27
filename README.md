@@ -47,9 +47,9 @@ OR
 2. Click Editor, Welcome Tab
 3. Press **Exclude from Defender** (Require Administrator Privilege)
 4. Press OK if prompted
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/ad8a1000-b067-4ed9-bb4a-48b791ae8720" />
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/f8ad3e11-10ec-4f79-8f71-34b5d3feabff" />
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/2519116d-7955-4afc-9a71-1ce1141f80c1" />
+<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/ad8a1000-b067-4ed9-bb4a-48b791ae8720" />
+<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/f8ad3e11-10ec-4f79-8f71-34b5d3feabff" />
+<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/2519116d-7955-4afc-9a71-1ce1141f80c1" />
 
 **Option 2**
 
