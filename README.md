@@ -14,7 +14,7 @@ DNS_PROBE_POSSIBLE
 3. When given two options, make sure pick **LEFT SIDE** or **Private Browsing**
 4. Change the mode to **DNS only (HTTPS)**
 5. Connect
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/27b76201-4089-4b48-b55b-d99ae7a88e1e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b7222acb-f8b0-44e6-8d91-9a7855422510" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/187d7fa7-1ccc-487e-8c75-7b42285e28d1" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c7994055-8a24-4b5d-a441-58a45d1c9b98" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e3aa10fc-2a02-47d6-9b56-637caeb5c675" />
