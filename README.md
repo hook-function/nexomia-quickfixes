@@ -1,5 +1,6 @@
 # Welcome to Nexomia Quick Fixes!
 this is where we post our quick fixes for [Nexomia.win](https://discord.com/invite/nexomia)
+
 Official Website: https://nexomia.win
 
 ## 1. Site Can't Be Reached
