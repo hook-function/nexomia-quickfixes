@@ -26,8 +26,11 @@ DNS_PROBE_POSSIBLE
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/69152853-763c-408a-bda3-8fa7421d79e6" />
 
 **The Solution is**
+
 Disable your VPN, Adblocker (Extension)
+
 OR
+
 1. Download [1.1.1.1](https://one.one.one.one/) Installer
 2. Run the installer as admin (press yes when prompted)
 3. When given two options, make sure pick **LEFT SIDE** or **Private Browsing**
@@ -44,8 +47,12 @@ OR
 2. Click Editor, Welcome Tab
 3. Press **Exclude from Defender** (Require Administrator Privilege)
 4. Press OK if prompted
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/ad8a1000-b067-4ed9-bb4a-48b791ae8720" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f8ad3e11-10ec-4f79-8f71-34b5d3feabff" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2519116d-7955-4afc-9a71-1ce1141f80c1" />
 
 **Option 2**
+
 Nexomia folder located at `%appdata%\win.nexomia`
 
 **MAKE SURE NEXOMIA IS IN A FOLDER BEFORE YOU DO THIS**
