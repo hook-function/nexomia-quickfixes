@@ -6,7 +6,6 @@ Official Website: https://nexomia.win
 **Credit: @usslmuk, @mxsquarade, @vuxqzo, @sentric, @exchrony, @loadlibrary0 from Discord.**
 
 ## 1. Site Can't Be Reached
-if you got shown like that
 ```TXT
 This site can’t be reached
 nexomia.win’s DNS address could not be found. Diagnosing the problem.
@@ -24,8 +23,7 @@ DNS_PROBE_POSSIBLE
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e3aa10fc-2a02-47d6-9b56-637caeb5c675" />
 
 ## 2. Work.ink ADBlocker or VPN Detected?
-if you got shown like that
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/69152853-763c-408a-bda3-8fa7421d79e6" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/69152853-763c-408a-bda3-8fa7421d79e6" />
 
 **The Solution is**
 Disable your VPN, Adblocker (Extension)
@@ -59,9 +57,9 @@ Nexomia folder located at `%appdata%\win.nexomia`
 6. Click on "Folder"
 7. Make sure to choose the folder where Nexomia is located
 8. Nexomia should now be excluded from defender.
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/f5eec5af-dc72-4657-86dd-de8d1261836a" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/7d45c0ca-7a32-4e5a-abf6-7a7e707eda08" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/4dee1fba-c953-49c2-a6e4-6804957f2006" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/b355d842-cc4a-45f7-8de8-ea99a573b6bc" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/7906a240-6118-4f9b-af61-8a4815529533" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/36d7e092-f61f-4254-8f85-85add2477fe6" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/f5eec5af-dc72-4657-86dd-de8d1261836a" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/7d45c0ca-7a32-4e5a-abf6-7a7e707eda08" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/4dee1fba-c953-49c2-a6e4-6804957f2006" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/b355d842-cc4a-45f7-8de8-ea99a573b6bc" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/7906a240-6118-4f9b-af61-8a4815529533" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/36d7e092-f61f-4254-8f85-85add2477fe6" />
