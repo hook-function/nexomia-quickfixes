@@ -146,6 +146,7 @@ MAKE SURE UR ROBLOX IS CLOSED BEFORE THIS
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9a3c0766-5b58-4ca0-9d02-adffe6d574c9" />
 
 **Option 2**
+
 Download both of these:
 
 [VC Redist (x64)](https://download.visualstudio.microsoft.com/download/pr/6f02464a-5e9b-486d-a506-c99a17db9a83/8995548DFFFCDE7C49987029C764355612BA6850EE09A7B6F0FDDC85BDC5C280/VC_redist.x64.exe)
