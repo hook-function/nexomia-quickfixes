@@ -73,13 +73,29 @@ Nexomia folder located at `%appdata%\win.nexomia`
 
 ## 4. Could not inject, Roblox Version is not supported.
 **Option 1**
+
+MAKE SURE UR ROBLOX IS CLOSED BEFORE THIS
 1. Open your Nexomia.exe
 2. Click Settings, Roblox Manager
 3. If it says not updated, then press **Update**, After that press **Launch**
 
+OR
+
+MAKE SURE UR ROBLOX IS CLOSED BEFORE THIS
+1. Open ur Nexomia.exe
+2. Click Settings, Roblox Manager
+3. Uninstall Roblox and Install fresh roblox
+
 **Option 2**
 1. Install [Fishstrap](https://fishstrap.app/) or [Froststrap](https://froststrap.xyz/)
 2. Setup and Launch
+
+**Option 3**
+1. Open your Bootstrapper settings (Bloxstrap, Fishtrap, Voidstrap, or Froststrap).
+2. Click on the "Deployment" tab.
+3. Find "Channel" and change it to: LIVE
+4. Find "Force Roblox reinstallation" and enable it
+5. Save, fully close Roblox, and reopen it.
 
 ## 5. Your Browser flags Nexomia.exe as Unsafe software
 ```
