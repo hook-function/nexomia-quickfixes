@@ -187,3 +187,21 @@ OR
 1. Delete Nexomia Folder from `%appdata%\win.nexomia`
 2. Clear Temp from `%temp%`
 1. Reinstall [Nexomia](https://nexomia.win/download)
+
+## 11. Module not found in memory
+```
+Module not found in memory, try reinstalling Roblox and reboot your PC
+```
+
+**The Solution is:**
+
+**Option 1**
+
+MAKE SURE UR ROBLOX IS CLOSED BEFORE THIS
+1. Open ur Nexomia.exe
+2. Click Settings, Roblox Manager
+3. Uninstall Roblox and Install fresh roblox
+
+**Option 2**
+1. Install [Fishstrap](https://fishstrap.app/) or [Froststrap](https://froststrap.xyz/)
+2. Setup and Launch
