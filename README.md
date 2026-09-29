@@ -221,3 +221,17 @@ MAKE SURE UR ROBLOX IS CLOSED BEFORE THIS
 **Option 2**
 1. Install [Fishstrap](https://fishstrap.app/) or [Froststrap](https://froststrap.xyz/)
 2. Setup and Launch
+
+## 12. Injector/Module/Luau LSP Not found
+```
+Injector not found, try excluding Nexomia from antivirus and redownloading
+Module not found, try excluding Nexomia from antivirus and redownloading
+Luau LSP not found, try excluding Nexomia from antivirus and redownloading
+```
+
+**The Solution is:**
+
+MAKE SURE NEXOMIA IS EXCLUDED FROM DEFENDER AND DISABLE YOUR WINDOWS DEFENDER
+1. Open ur Nexomia.exe
+2. Click Settings, Resources
+3. Download All Components (Injector, Module, Luau Lsp)
