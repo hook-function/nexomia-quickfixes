@@ -65,7 +65,7 @@ Nexomia folder located at `%appdata%\win.nexomia`
 7. Make sure to choose the folder where `win.nexomia` folder is located
 8. click "Add an Exclusion"
 9. Click on "File"
-10. Make sure to choose the folder where Nexomia.exe is located 
+10. Make sure to choose the Nexomia.exe (located at your Downloads, Documents, Desktop, etc.)
 11. Nexomia should now be excluded from defender.
 <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/f5eec5af-dc72-4657-86dd-de8d1261836a" />
 <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/7d45c0ca-7a32-4e5a-abf6-7a7e707eda08" />
